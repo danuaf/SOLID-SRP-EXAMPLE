@@ -1,5 +1,5 @@
 # SOLID Single Responsibility Principle Example Code
-Kode dalam repositori ini diambil dari program yang sudah berjalan untuk melakukan monitoring sistem panel surya di Marine Science Techno Park (MSTP) Universitas Diponegoro kampus Jepara. Pada repositori [ini(https://github.com/danuaf/Smart-Solar-Monitoring-System-MSTP-UNDIP)
+Kode dalam repositori ini diambil dari program yang sudah berjalan untuk melakukan monitoring sistem panel surya di Marine Science Techno Park (MSTP) Universitas Diponegoro kampus Jepara. Pada repositori [ini](https://github.com/danuaf/Smart-Solar-Monitoring-System-MSTP-UNDIP)
 
 ![img1](img/img1.png)
 
